@@ -28,18 +28,23 @@
           "toolsDependencies": [
             {
               "packager": "arduino",
-              "version": "4.8.3-2014q1",
-              "name": "arm-none-eabi-gcc"
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
             },
             {
               "packager": "arduino",
-              "version": "1.6.1-arduino",
-              "name": "bossac"
+              "name": "bossac",
+              "version": "1.6.1-arduino"
             },
             {
               "packager": "arduino",
-              "version": "0.9.0-arduino",
-              "name": "openocd"
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
             },
             {
               "packager": "arduino",
