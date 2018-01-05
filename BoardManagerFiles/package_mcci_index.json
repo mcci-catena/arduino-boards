@@ -207,7 +207,7 @@
           },
           "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/packages/Arduino_Core_STM32-1_0_3.zip",
           "archiveFileName": "Arduino_Core_STM32-1_0_3.zip",
-          "checksum": "SHA-256:5ce23d808d2b18b641f322a03150f7dedaa3ffe1189d665a41d1bb47b262e411",
+          "checksum": "SHA-256:29403b142127df9a797b7035fa1c33ef3eb02d6db5ee8070db728d1734c49179",
           "size": "2517760",
           "boards": [
             {"name": "Catena4551"}
