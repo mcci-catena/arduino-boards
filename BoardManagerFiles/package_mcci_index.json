@@ -304,10 +304,38 @@
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/mukeshbharath/MCCI-3201-Connection-Exerciser/raw/master/Model-3201-BSP-V1_0_0.tar",
-          "archiveFileName": "Model-3201-BSP-V1_0_0.tar",
-          "checksum": "SHA-256:b3f3f3ea71606d506607fc72b8b2fef634db7fd1bd7041d8891fe60b0829748f",
-          "size": "17292288",
+          "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/packages/Model-3201-BSP-V1_0_0.zip",
+          "archiveFileName": "Model-3201-BSP-V1_0_0.zip",
+          "checksum": "SHA-256:4bcf93c0729ab45bdd109d082b0d4ab647fbae70fb08e37e1d9ce095d48b6034",
+          "size": "6058406",
+          "boards": [
+            {"name": "MCCI-3201-Connection-Exerciser"}
+          ],
+          "toolsDependencies": [
+			{
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            },
+			{
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.3-arduino2"
+            }
+          ]
+        }
+	        {
+          "name": "MCCI Connection Exerciser ",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://portal.mcci.com"
+          },
+          "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/packages/Model-3201-BSP-V1_0_1.zip",
+          "archiveFileName": "Model-3201-BSP-V1_0_1.zip",
+          "checksum": "SHA-256:5cde9fe347a6e38122ea0ac5c3dd96f9c6ef98b9353e324cf036eee0a07d4f69",
+          "size": "6368961",
           "boards": [
             {"name": "MCCI-3201-Connection-Exerciser"}
           ],

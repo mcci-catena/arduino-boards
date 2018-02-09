@@ -37,7 +37,7 @@ After adding the URL, go to `Tools>Board:--->Boards Manager...` and install MCCI
 ## Build and Download
 
 Shutdown the Arduino IDE and restart it, just in case.
-Ensure selected board is 'Catena4410'/'Catena4450' (in the GUI, check that `Tools`>`Board "..."` says `"Catana4410"/"Catena4450"`.
+Ensure selected board is 'Catena4410'/'Catena4450'/'Catena4460' (in the GUI, check that `Tools`>`Board "..."` says `"Catana4410"/"Catena4450"/"Catena4460"`.
 
 <img src="https://github.com/mcci-catena/arduino-boards/blob/master/chooseboard.PNG" width=75% height=75%>
 
