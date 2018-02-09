@@ -323,8 +323,8 @@
               "version": "4.9.2-atmel3.5.3-arduino2"
             }
           ]
-        }
-	        {
+        },
+	{
           "name": "MCCI Connection Exerciser ",
           "architecture": "avr",
           "version": "1.0.1",
