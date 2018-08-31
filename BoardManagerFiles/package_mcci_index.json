@@ -709,28 +709,28 @@
               "size": "94146952",
               "checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
-              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
               "host": "i686-mingw32"
             },
             {
               "size": "88715718",
               "checksum": "SHA-256:0305683c9a7cd368c6cff891883979982f3917ae6edc38fd64f920c188ad4972",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
-              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
               "host": "x86_64-apple-darwin"
             },
             {
               "size": "83912523",
               "checksum": "SHA-256:81c5b83fd134a34a2f1dd1bd93ece223d4a511134932d41e5dd54a00943c0402",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
-              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
               "host": "x86_64-pc-linux-gnu"
             },
             {
               "size": "82511589",
               "checksum": "SHA-256:8384a1200b770b34d3a31f41b4125bb9c7707fa69ecaf8b9f3afe9b2b01fa98c",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
-              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
               "host": "i686-pc-linux-gnu"
             }
           ],
