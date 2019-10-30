@@ -1046,7 +1046,7 @@
 	{
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "2.5.0",
+          "version": "2.6.0",
           "category": "Contributed",
           "help": {
             "online": "https://portal.mcci.com"
