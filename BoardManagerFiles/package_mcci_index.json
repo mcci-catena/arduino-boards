@@ -1301,14 +1301,14 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.0.0-alpha1",
+          "version": "3.0.0-alpha2",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha1.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha1.tar.gz",
-          "checksum": "SHA-256:0f168cb0662ecdac4799168d155b482a9dca42e96f2ac6a9b485a086d4d96a8c",
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha2.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha2.tar.gz",
+          "checksum": "SHA-256:c91479001789339cc114dcd23e2f3b024375613be8a6f2f05c0e102ec9f7c726",
           "size": "5988755",
           "boards": [
             {"name": "Catena4551"},
@@ -1342,15 +1342,15 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.0.0-alpha2",
+          "version": "3.0.0-alpha3",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha2.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha2.tar.gz",
-          "checksum": "SHA-256:c91479001789339cc114dcd23e2f3b024375613be8a6f2f05c0e102ec9f7c726",
-          "size": "5988755",
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha3.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha3.tar.gz",
+          "checksum": "SHA-256:4fafbf100ecb039b4068bf36d25cdeed6a16ab484360e69ed46561135b9ed6bf",
+          "size": "5988722",
           "boards": [
             {"name": "Catena4551"},
 	    {"name": "Catena4610"},
