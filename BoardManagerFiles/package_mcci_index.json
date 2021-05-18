@@ -1301,56 +1301,15 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.0.0-alpha2",
+          "version": "3.0.0",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha2.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha2.tar.gz",
-          "checksum": "SHA-256:c91479001789339cc114dcd23e2f3b024375613be8a6f2f05c0e102ec9f7c726",
-          "size": "5988755",
-          "boards": [
-            {"name": "Catena4551"},
-	    {"name": "Catena4610"},
-	    {"name": "Catena4611"},
-	    {"name": "Catena4612"},
-	    {"name": "Catena4617"},
-	    {"name": "Catena4618"},
-	    {"name": "Catena4630"},
-	    {"name": "Catena4801"},
-	    {"name": "Catena4802"}
-          ],
-          "toolsDependencies": [
-           {
-              "version": "6-2017-q2-update",
-              "name": "arm-none-eabi-gcc",
-              "packager": "mcci"
-            },
-            {
-              "version": "2018.3.23-mcci",
-              "name": "STM32Tools",
-              "packager": "mcci"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            }
-          ]
-        },
-        {
-          "name": "MCCI Catena STM32 Boards",
-          "architecture": "stm32",
-          "version": "3.0.0-alpha3",
-          "category": "Contributed",
-          "help": {
-            "online": "https://forum.mcci.io"
-          },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0-alpha3.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_0_alpha3.tar.gz",
-          "checksum": "SHA-256:4fafbf100ecb039b4068bf36d25cdeed6a16ab484360e69ed46561135b9ed6bf",
-          "size": "5988722",
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.0.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_0.tar.gz",
+          "checksum": "SHA-256:dbd2aa03b60e15d91326f441c31855f879eeb8c2c1adc78c194ba33e05e0e5d5",
+          "size": "5987814",
           "boards": [
             {"name": "Catena4551"},
 	    {"name": "Catena4610"},
