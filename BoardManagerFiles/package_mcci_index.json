@@ -1381,6 +1381,47 @@
           ]
         },
         {
+          "name": "MCCI Catena STM32 Boards",
+          "architecture": "stm32",
+          "version": "3.0.1-alpha2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://forum.mcci.io"
+          },
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1-alpha2.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha2.tar.gz",
+          "checksum": "SHA-256:59052b6773cc169f8c2481d91ffb16e096c04fef4a27e557dc648ff1eb3c8775",
+          "size": "5989189",
+          "boards": [
+            {"name": "Catena4551"},
+	    {"name": "Catena4610"},
+	    {"name": "Catena4611"},
+	    {"name": "Catena4612"},
+	    {"name": "Catena4617"},
+	    {"name": "Catena4618"},
+	    {"name": "Catena4630"},
+	    {"name": "Catena4801"},
+	    {"name": "Catena4802"}
+          ],
+          "toolsDependencies": [
+           {
+              "version": "6-2017-q2-update",
+              "name": "arm-none-eabi-gcc",
+              "packager": "mcci"
+            },
+            {
+              "version": "2018.3.23-mcci",
+              "name": "STM32Tools",
+              "packager": "mcci"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            }
+          ]
+        },
+        {
           "name": "MCCI Connection Exerciser ",
           "architecture": "avr",
           "version": "1.0.0",
