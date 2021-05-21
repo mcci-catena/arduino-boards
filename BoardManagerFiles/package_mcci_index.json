@@ -112,7 +112,7 @@
           "size": "6561646",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -159,7 +159,7 @@
           "size": "6564248",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -206,7 +206,7 @@
           "size": "6564229",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -253,7 +253,7 @@
           "size": "6564047",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -300,7 +300,7 @@
           "size": "6564331",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -347,7 +347,7 @@
           "size": "6564792",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -394,7 +394,7 @@
           "size": "6566086",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -441,7 +441,7 @@
           "size": "8790723",
           "boards": [
             {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
+	    {"name": "Catena 4420"},
             {"name": "Catena 4450"},
             {"name": "Catena 4460"},
 	    {"name": "Catena 4470"}
@@ -1342,107 +1342,25 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.0.1-alpha1",
+          "version": "3.0.1",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1-alpha1.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha1.tar.gz",
-          "checksum": "SHA-256:f573b8764e6a17e1487b21dc2030795c8ca2abb8e2006a1f375e25898ea04e7c",
-          "size": "5988999",
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_1.tar.gz",
+          "checksum": "SHA-256:48638b8a3dc1864310a0e673b0f40cbe60acd4380856f601420fa814f65b4ef5",
+          "size": "5988888",
           "boards": [
             {"name": "Catena4551"},
-	    {"name": "Catena4610"},
-	    {"name": "Catena4611"},
-	    {"name": "Catena4612"},
-	    {"name": "Catena4617"},
-	    {"name": "Catena4618"},
-	    {"name": "Catena4630"},
-	    {"name": "Catena4801"},
-	    {"name": "Catena4802"}
-          ],
-          "toolsDependencies": [
-           {
-              "version": "6-2017-q2-update",
-              "name": "arm-none-eabi-gcc",
-              "packager": "mcci"
-            },
-            {
-              "version": "2018.3.23-mcci",
-              "name": "STM32Tools",
-              "packager": "mcci"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            }
-          ]
-        },
-        {
-          "name": "MCCI Catena STM32 Boards",
-          "architecture": "stm32",
-          "version": "3.0.1-alpha2",
-          "category": "Contributed",
-          "help": {
-            "online": "https://forum.mcci.io"
-          },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1-alpha2.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha2.tar.gz",
-          "checksum": "SHA-256:59052b6773cc169f8c2481d91ffb16e096c04fef4a27e557dc648ff1eb3c8775",
-          "size": "5989189",
-          "boards": [
-            {"name": "Catena4551"},
-	    {"name": "Catena4610"},
-	    {"name": "Catena4611"},
-	    {"name": "Catena4612"},
-	    {"name": "Catena4617"},
-	    {"name": "Catena4618"},
-	    {"name": "Catena4630"},
-	    {"name": "Catena4801"},
-	    {"name": "Catena4802"}
-          ],
-          "toolsDependencies": [
-           {
-              "version": "6-2017-q2-update",
-              "name": "arm-none-eabi-gcc",
-              "packager": "mcci"
-            },
-            {
-              "version": "2018.3.23-mcci",
-              "name": "STM32Tools",
-              "packager": "mcci"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            }
-          ]
-        },
-        {
-          "name": "MCCI Catena STM32 Boards",
-          "architecture": "stm32",
-          "version": "3.0.1-alpha3",
-          "category": "Contributed",
-          "help": {
-            "online": "https://forum.mcci.io"
-          },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1-alpha3.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha3.tar.gz",
-          "checksum": "SHA-256:24697f503859ddf6abe26d7981f7b776e605c7bf61ffd067c8636c08e1c40c6a",
-          "size": "5989463",
-          "boards": [
-            {"name": "Catena4551"},
-	    {"name": "Catena4610"},
-	    {"name": "Catena4611"},
-	    {"name": "Catena4612"},
-	    {"name": "Catena4617"},
-	    {"name": "Catena4618"},
-	    {"name": "Catena4630"},
-	    {"name": "Catena4801"},
-	    {"name": "Catena4802"}
+            {"name": "Catena4610"},
+            {"name": "Catena4611"},
+            {"name": "Catena4612"},
+            {"name": "Catena4617"},
+            {"name": "Catena4618"},
+            {"name": "Catena4630"},
+            {"name": "Catena4801"},
+            {"name": "Catena4802"}
           ],
           "toolsDependencies": [
            {
