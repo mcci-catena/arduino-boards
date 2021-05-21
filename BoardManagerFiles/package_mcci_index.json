@@ -1430,7 +1430,7 @@
             "online": "https://forum.mcci.io"
           },
           "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.1-alpha3.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha2.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_1-alpha3.tar.gz",
           "checksum": "SHA-256:24697f503859ddf6abe26d7981f7b776e605c7bf61ffd067c8636c08e1c40c6a",
           "size": "5989463",
           "boards": [
