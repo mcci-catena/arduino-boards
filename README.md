@@ -1,6 +1,6 @@
 # MCCI Arduino Boards Package Repository
 
-This repository contains the Boards Manager file(.json) and the related packages for Arduino IDE.
+This repository contains the Boards Manager file (.json) and the related packages for Arduino IDE.
 
 In order to successfully build and upload/test the code to the Catena boards, please follow these steps:
 
@@ -18,9 +18,9 @@ The follwing window will pop up.
 
 <img src="./preferences1.PNG" width=75% height=75%>
 
-A URL will be added to **Additional Boards Manager URLs** option. If more than one URL is needed, each URL is separated with a comma(`,`). New MCCI boards and updates to existing boards will automatically be picked up by the Board Manager each time it is opened. The URLs point to index files that the Board Manager uses to build the list of available & installed boards.
+An URL must be added to the **Additional Boards Manager URLs** option. If more than one URL is needed, each URL is separated with a comma(`,`). New MCCI boards and updates to existing boards will automatically be picked up by the Board Manager each time it is opened. The URLs point to index files that the Board Manager uses to build the list of available & installed boards.
 
-In this example, only MCCI board .json file URL will be added, example, but you can add multiple URLS by separating them with commas. 
+In this example, only the MCCI board `.json` file URL will be added, example, but you can add multiple URLS by separating them with commas.
 
 Copy and paste the link below into the Additional Boards Manager URLs option in the Arduino IDE preferences.
 
