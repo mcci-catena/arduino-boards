@@ -1862,13 +1862,13 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.0.5",
+          "version": "3.0.5-beta1",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
           "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.5.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_5.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_5_beta1.tar.gz",
           "checksum": "SHA-256:9d928936276546620a88b1654f975343c94b449d259f65cc45da4b7ac59ad433",
           "size": "5993777",
           "boards": [
